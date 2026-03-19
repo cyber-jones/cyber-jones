@@ -19,27 +19,27 @@
 
 ---
 
-## 💼 About Me
+## About Me
 
-💻 Software Developer with **3+ years of experience**
-🏢 Worked with **3+ organizations** delivering production-ready systems
-🌍 Based in Nigeria
+Software Developer with **3+ years of experience**
+Worked with **3+ organizations** delivering production-ready systems
+Based in Nigeria
 
-* 🔧 Strong in backend systems, APIs & full-stack development
-* ⚡ Experienced in containerized & cloud-ready apps
-* 📈 Focused on scalable and maintainable architectures
+* Strong in backend systems, APIs & full-stack development
+* Experienced in containerized & cloud-ready apps
+* Focused on scalable and maintainable architectures
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🚀 Languages & Frameworks
+### Languages & Frameworks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,ts,java,react" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
@@ -54,12 +54,12 @@
 
 ---
 
-## 🧠 Professional Experience
+## Professional Experience
 
-* 🏢 Worked across **3+ organizations**
-* 🛠️ Built **enterprise-grade applications**
-* 🔄 Delivered scalable APIs and backend systems
-* 🤝 Collaborated in agile development teams
+* Worked across **3+ organizations**
+* Built **enterprise-grade applications**
+* Delivered scalable APIs and backend systems
+* Collaborated in agile development teams
 
 <!-- 
 ## 📂 Featured Projects
@@ -115,7 +115,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-jones&theme=tokyo-night" />
@@ -123,7 +123,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://github.com/cyber-jones/cyber-jones/blob/output/github-contribution-grid-snake.svg" />
@@ -131,7 +131,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_PROFILE">
@@ -147,7 +147,7 @@
 
 ---
 
-## ⚡ Core Strengths
+## Core Strengths
 
 ✔ Scalable Backend Development
 ✔ API Design & Architecture
