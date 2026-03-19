@@ -106,7 +106,7 @@ Available to work onsite, hybrid and remotely
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cyber-jones&show_icons=true&theme=tokyonight" height="160"/>
@@ -122,25 +122,25 @@ Available to work onsite, hybrid and remotely
 </p>
 
 ---
-
+<!-- 
 ## Contribution Snake
 
 <p align="center">
   <img src="https://github.com/cyber-jones/cyber-jones/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+--- -->
 
 ## Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
+  <a href="https://linkedin.com/in/jones-ariyo-2bb883291">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR_HANDLE">
+  <a href="https://twitter.com/jonesariyo?s=21">
     <img src="https://img.shields.io/badge/Twitter-000000?logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:jonesariyo00@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
