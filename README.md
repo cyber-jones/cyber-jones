@@ -6,7 +6,7 @@
 <h3 align="center">Software Developer | 3+ Years Experience</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Full+Stack+Developer;Backend+%7C+Frontend+%7C+Cloud;Turning+Ideas+Into+Reality🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Full+Stack+Developer;Backend+%7C+Frontend;Turning+Ideas+Into+Reality🚀" />
 </p>
 
 ---
@@ -23,9 +23,9 @@
 
 Software Developer with **3+ years of experience**
 Worked with **3+ organizations** delivering production-ready systems
-Based in Nigeria
+Available to work onsite, hybrid and remotely
 
-* Strong in backend systems, APIs & full-stack development
+* Strong in backend systems, APIs & experienced in using react
 * Experienced in containerized & cloud-ready apps
 * Focused on scalable and maintainable architectures
 
