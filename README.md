@@ -6,7 +6,7 @@
 <h3 align="center">Software Developer | 3+ Years Experience</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Full+Stack+Developer;Backend+%7C+Frontend;Turning+Ideas+Into+Reality🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Full+Stack+Developer;Backend+%7C+Frontend;Turning+Ideas+Into+Reality🚀;Leveraging+AI+to+speed+up+development🤖" />
 </p>
 
 ---
@@ -17,7 +17,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=120&section=header"/>
 </p>
 
----
 
 ## About Me
 
@@ -156,7 +155,6 @@ Available to work onsite, hybrid and remotely
 ✔ Microservices
 ✔ Full-Stack Development
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0A66C2&height=120&section=footer"/>
