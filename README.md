@@ -28,6 +28,7 @@ Available to work onsite, hybrid and remotely
 * Strong in backend systems, APIs & experienced in using react
 * Experienced in containerized & cloud-ready apps
 * Focused on scalable and maintainable architectures
+* Integrating AI into software applications and leveraging it to speed up development
 
 ---
 
@@ -42,7 +43,7 @@ Available to work onsite, hybrid and remotely
 ### Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
