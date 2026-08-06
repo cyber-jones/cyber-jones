@@ -3,10 +3,10 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">Hi 👋, I'm Ariyo Jones</h1>
-<h3 align="center">Software Developer | 3+ Years Experience</h3>
+<h3 align="center">Software & AI Engineer | 3+ Years Experience</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Full+Stack+Developer;Backend+%7C+Frontend;Turning+Ideas+Into+Reality🚀;Leveraging+AI+to+speed+up+development🤖" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Full+Stack+Developer;Backend+%7C+AI+%7C+Frontend;Turning+Ideas+Into+Reality🚀;Leveraging+AI+to+speed+up+development🤖" />
 </p>
 
 ---
@@ -20,13 +20,14 @@
 
 ## About Me
 
-Software Developer with **3+ years of experience**
+Software and AI Engineer with **3+ years of experience**
 Worked with **3+ organizations** delivering production-ready systems
 Available to work onsite, hybrid and remotely
 
 * Strong in backend systems, APIs & experienced in using react
+* Experienced in developing AI agents and RAG systems usign LLMs
 * Experienced in containerized & cloud-ready apps
-* Focused on scalable and maintainable architectures
+* Focused on scalable and maintainable architectures and the right system design for an application
 * Integrating AI into software applications and leveraging it to speed up development
 
 ---
@@ -36,7 +37,7 @@ Available to work onsite, hybrid and remotely
 ### Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,ts,java,react" />
+  <img src="https://skillicons.dev/icons?i=dotnet,ts,java,python,react" />
 </p>
 
 ### Databases
@@ -46,11 +47,17 @@ Available to work onsite, hybrid and remotely
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-<!-- ### ⚙️ DevOps & Tools
+### DevOps & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-</p> -->
+</p>
+
+### Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
 
 ---
 
@@ -59,6 +66,7 @@ Available to work onsite, hybrid and remotely
 * Worked across **3+ organizations**
 * Built **enterprise-grade applications**
 * Delivered scalable APIs and backend systems
+* Created **RAG systems and AI agents** for software appplications 
 * Collaborated in agile development teams
 
 <!-- 
@@ -151,6 +159,7 @@ Available to work onsite, hybrid and remotely
 
 ✔ Scalable Backend Development
 ✔ API Design & Architecture
+✔ RAG and AI agents
 ✔ Database Management
 ✔ Microservices
 ✔ Full-Stack Development
