@@ -4,10 +4,13 @@
 
 <h1 align="center">Hi 👋, I'm Ariyo Jones</h1>
 <h3 align="center">Software & AI Engineer | 3+ Years Experience</h3>
+<h3 align="center">Soccer ⚽</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Full+Stack+Developer;Backend+%7C+AI+%7C+Frontend;Turning+Ideas+Into+Reality🚀;Leveraging+AI+to+speed+up+development🤖" />
 </p>
+
+<p> <img src="https://komarev.com/ghpvc/?username=cyber-jones&label=Profile%20views&color=0e75b6&style=flat" alt="Ariyo Jones" /> </p>
 
 ---
 
@@ -20,9 +23,10 @@
 
 ## About Me
 
-Software and AI Engineer with **3+ years of experience**
-Worked with **3+ organizations** delivering production-ready systems
-Available to work onsite, hybrid and remotely
+Software and AI Engineer with **3+ years of experience**.
+Worked with **3+ organizations** delivering production-ready systems.
+Available to work onsite, hybrid and remotely.
+Huge Soccer fan and really good at playing ⚽
 
 * Strong in backend systems, APIs & experienced in using react
 * Experienced in developing AI agents and RAG systems usign LLMs
@@ -69,55 +73,12 @@ Available to work onsite, hybrid and remotely
 * Created **RAG systems and AI agents** for software appplications 
 * Collaborated in agile development teams
 
-<!-- 
-## 📂 Featured Projects
-
-### 🏥 Outpatient Management System
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Outpatient+System+Preview" />
-</p>
-
-* Full-stack health record system
-* Secure authentication & data management
-* Tech: `.NET / Next.js / MongoDB`
-
-🔗 [View Project](#)
-
----
-
-### ✈️ Airline Reservation System
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Airline+System+Preview" />
-</p>
-
-* Flight booking & management system
-* REST API architecture
-* Tech: `Java / Node.js / Express`
-
-🔗 [View Project](#)
-
----
-
-### 📈 Stock News AI App
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Stock+AI+App+Preview" />
-</p>
-
-* AI-powered stock news delivery
-* Background jobs & email automation
-* Tech: `Next.js / TypeScript / APIs`
-
-🔗 [View Project](#) -->
-
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyber-jones&show_icons=true&theme=tokyonight" height="160"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=cyber-jones&show_icons=true&theme=tokyonight" height="160"/> -->
   <img src="https://streak-stats.demolab.com?user=cyber-jones&theme=tokyonight" height="160"/>
 </p>
 
