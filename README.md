@@ -3,11 +3,11 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">Hi 👋, I'm Ariyo Jones</h1>
-<h3 align="center">Software & AI Engineer | 3+ Years Experience</h3>
+<h3 align="center">Software Engineer | 3+ Years Experience</h3>
 <h3 align="center">Soccer ⚽</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Full+Stack+Developer;Backend+%7C+AI+%7C+Frontend;Turning+Ideas+Into+Reality🚀;Leveraging+AI+to+speed+up+development🤖" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Full+Stack+Developer;Backend+%7C+Machine Learning+%7C+AI+%7C+Frontend;Turning+Ideas+Into+Reality🚀;Leveraging+AI+to+speed+up+development🤖" />
 </p>
 
 <p> <img src="https://komarev.com/ghpvc/?username=cyber-jones&label=Profile%20views&color=0e75b6&style=flat" alt="Ariyo Jones" /> </p>
@@ -29,6 +29,7 @@ Available to work onsite, hybrid and remotely.
 Huge Soccer fan and really good at playing ⚽
 
 * Strong in backend systems, APIs & experienced in using react
+* Experienced building Machine Learning models
 * Experienced in developing AI agents and RAG systems usign LLMs
 * Experienced in containerized & cloud-ready apps
 * Focused on scalable and maintainable architectures and the right system design for an application
@@ -69,8 +70,9 @@ Huge Soccer fan and really good at playing ⚽
 
 * Worked across **3+ organizations**
 * Built **enterprise-grade applications**
-* Delivered scalable APIs and backend systems
-* Created **RAG systems and AI agents** for software appplications 
+* Delivered **scalable APIs and backend systems**
+* Built **strong machine learning models for softwares**
+* Created **RAG systems and AI agents** for software appplications
 * Collaborated in agile development teams
 
 ---
