@@ -3,7 +3,7 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">Hi 👋, I'm Ariyo Jones</h1>
-<h3 align="center">Software Engineer | 3+ Years Experience</h3>
+<h3 align="center">Software Engineer | 2+ Years Experience</h3>
 <h3 align="center">Soccer ⚽</h3>
 
 <p align="center">
@@ -23,15 +23,15 @@
 
 ## About Me
 
-Software and AI Engineer with **3+ years of experience**.
+Software and AI Engineer with **2+ years of experience**.
 Worked with **3+ organizations** delivering production-ready systems.
 Available to work onsite, hybrid and remotely.
 Huge Soccer fan and really good at playing ⚽
 
-* Strong in backend systems, APIs & experienced in using react
+* Strong in backend systems, APIs, system architecture, design and experienced in using react
 * Experienced building Machine Learning models
 * Experienced in developing AI agents and RAG systems usign LLMs
-* Experienced in containerized & cloud-ready apps
+* Experienced in containerized and cloud-ready apps
 * Focused on scalable and maintainable architectures and the right system design for an application
 * Integrating AI into software applications and leveraging it to speed up development
 
