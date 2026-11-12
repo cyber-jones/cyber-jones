@@ -3,7 +3,7 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">Hi 👋, I'm Ariyo Jones</h1>
-<h3 align="center">Software Engineer | 2+ Years Experience</h3>
+<h3 align="center">Software Engineer | 3+ Years Experience</h3>
 <h3 align="center">Soccer ⚽</h3>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## About Me
 
-Software and AI Engineer with **2+ years of experience**.
+Software and AI Engineer with **3+ years of experience**.
 Worked with **3+ organizations** delivering production-ready systems.
 Available to work onsite, hybrid and remotely.
 Huge Soccer fan and really good at playing ⚽
