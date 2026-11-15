@@ -52,15 +52,10 @@ Huge Soccer fan and really good at playing ⚽
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-### DevOps & Tools
+### DevOps & Cloud
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-</p>
-
-### Cloud
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
