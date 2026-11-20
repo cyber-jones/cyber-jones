@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Ariyo Jones</h1>
 <h3 align="center">Software Engineer | 3+ Years Experience</h3>
-<h3 align="center">Soccer ⚽</h3>
+<!-- <h3 align="center">Soccer ⚽</h3> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Full+Stack+Developer;Backend+%7C+Machine+Learning+%7C+AI+%7C+Frontend;Turning+Ideas+Into+Reality🚀;Leveraging+AI+to+speed+up+development+🤖" />
@@ -37,27 +37,27 @@ Huge Soccer fan and really good at playing ⚽
 
 ---
 
-## Tech Stack
+<!-- ## Tech Stack -->
 
-### Languages & Frameworks
+<!-- ### Languages & Frameworks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,ts,java,python,react" />
-</p>
+</p> -->
 
-### Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-
-### DevOps & Cloud
+<!-- ### Databases -->
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,docker,kubernetes,aws" />
+  <!-- <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> -->
+</p>
+
+<!-- ### DevOps & Cloud -->
+
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
   <img src="https://skillicons.dev/icons?i=aws" />
-</p>
+</p> -->
 
 ---
 
